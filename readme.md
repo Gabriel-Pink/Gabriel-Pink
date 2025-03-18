@@ -13,11 +13,11 @@ Além de aumentar a performance de sistemas em até 30%, sou especializado em re
 
 ### Idiomas - Languages
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="./assets/lang/br.png" width="23" />Português - Nativo
+    <img src="./assets/lang/br.png" width="23" /><span>Português - Nativo</span>
 </div>
 <br/>
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="./assets/lang/eua.png" width="23" />English - Intermediary
+    <img src="./assets/lang/eua.png" width="23" /><span>English - Intermediary</span>
 </div>
 
 ## Decola Tech 2025 - Avanade
