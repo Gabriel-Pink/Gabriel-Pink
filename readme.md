@@ -13,11 +13,11 @@ Além de aumentar a performance de sistemas em até 30%, sou especializado em re
 
 ### Idiomas - Languages
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="./assets/lang/br.png" width="23" /><span>Português - Nativo</span>
+    <img src="./assets/lang/br.png" width="23" /><div>Português - Nativo</div>
 </div>
 <br/>
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="./assets/lang/eua.png" width="23" /><span>English - Intermediary</span>
+    <img src="./assets/lang/eua.png" width="23" /><div>English - Intermediary</div>
 </div>
 
 ## Decola Tech 2025 - Avanade
@@ -39,6 +39,10 @@ Como parte do meu processo de aprendizado, criei uma organização para separar 
     <img src="./assets/icons/az900.webp" alt="AI-900" width="80"/>
     <img src="./assets/icons/ai900.webp" alt="AI-900" width="80"/>
 </div>
+
+## 👨‍💻 Projeto que estou trabalhando
+
+Atualmente, estou desenvolvendo uma integração entre um microserviço em Java com Spring Boot e o gateway de pagamento Stripe. Com isso, busco facilitar a implementação de pagamentos para meus clientes, tornando o serviço mais escalável e de fácil manutenção.
 
 ## 🚀 Tecnologias que uso
 
