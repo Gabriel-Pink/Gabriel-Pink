@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Rosa 👋
 
-Desenvolvo há 5 anos soluções full-stack, com foco em conversão, SEO e vendas, impactando mais de 50 mil usuários.
+Desenvolvo há 5 anos soluções full-stack, com foco em codigo limpo e otimizacao.
 
 Além de aumentar a performance de sistemas em até 30%, sou especializado em reduzir custos ao criar arquiteturas de sistemas eficientes. Também trabalho com integração de webhooks para automatizar processos e garantir maior agilidade. Reduzo o tempo de desenvolvimento em até 40% e sempre busco estratégias ágeis que geram resultados concretos, com foco em conversão e crescimento.
 
