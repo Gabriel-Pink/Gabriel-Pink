@@ -10,7 +10,7 @@ Além de aumentar a performance de sistemas em até 30%, sou especializado em re
 [![GitHub](https://img.shields.io/badge/GitHub-Gabriel--Pink-black?logo=github)](https://github.com/Gabriel-Pink)
 ![Discord](https://img.shields.io/badge/Discord-gabriel.tec-%237289DA?logo=discord)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-(11)%2091356--4300-%237289DA?logo=whatsapp)](https://wa.me/+5511913564300)
-[![E-mail](https://img.shields.io/badge/E--email-linkedin@gabriel--rosa.com-%237289DA?logo=email)](mailto:linkedin@gabriel-rosa.com)
+[![E-mail](https://img.shields.io/badge/E--email-contato@gabriel--rosa.com-%237289DA?logo=email)](mailto:linkedin@gabriel-rosa.com)
 
 ### Idiomas - Languages
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
