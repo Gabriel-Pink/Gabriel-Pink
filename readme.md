@@ -28,5 +28,5 @@ Atualmente, estou desenvolvendo uma integração entre um microserviço em Java 
 ## 🚀 Tecnologias que uso
 
 - **Frontend**: React, React Native, Next.js, Angular, Tailwind CSS, TypeScript
-- **Backend**: Node.js, Java, SpringBoot, AWS (Lambda, DynamoDB, Amplify), SQL Server
+- **Backend**: Node.js, C#, .NET, AWS (Lambda, DynamoDB, Amplify), SQL Server, Postgres
 - **Ferramentas e Serviços**: Docker, JWT, GitHub Actions, AWS Amplify, Serverless Framework, Servidores VPS
